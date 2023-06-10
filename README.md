@@ -1,3 +1,3 @@
 # cv
 
-Basic cv using html, css
+Basic cv using html
